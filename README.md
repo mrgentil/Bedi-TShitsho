@@ -17,9 +17,7 @@
 - 🔧&nbsp; Tools    : Git | GitHub | Bitbucket
 <br/>
 
-[![Bedi Tshitsho github stats](https://github-readme-stats.vercel.app/api?username=bolenge&show_icons=true&theme=radical)](https://github.com/mrgentil/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolenge&show_icons=true&theme=radical&layout=compact)](https://github.com/mrgentil/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
